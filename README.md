@@ -10,6 +10,9 @@ The project combines a luxury dark editorial visual direction with cinematic pho
 
 [Open the deployed Eventra website](https://eventra-xi-five.vercel.app/)
 
+<img width="1903" height="982" alt="image" src="https://github.com/user-attachments/assets/2c2530e6-d2b6-465e-984e-2539d7d63cb5" />
+
+
 ## Project Goals
 
 This project demonstrates practical frontend development skills through a realistic event-booking user journey:
